@@ -101,7 +101,7 @@ const luis = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 **🛡️ ROAMFI — eSIM para Viajeros**
 
@@ -115,7 +115,20 @@ Plataforma web para compra y activación de eSIMs internacionales. Integración 
 🔗 [roamfi.co](https://roamfi.co)
 
 </td>
-<td width="50%">
+<td width="33%">
+
+**📡 GoNexio Mobile — MVNO Prepago USA**
+
+Servicio de telefonía móvil prepago 4G/5G sin contrato para EE.UU. Planes desde $20/mes, activación eSIM instantánea, BYOD y sin verificación de crédito.
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
+
+🔗 [gonexiomobile.com](https://www.gonexiomobile.com)
+
+</td>
+<td width="33%">
 
 **📱 FastPortNumbers — Marketplace Telecom**
 
