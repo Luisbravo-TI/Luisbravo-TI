@@ -256,23 +256,6 @@ API RESTful con FastAPI, endpoints CRUD, documentación Swagger automática y au
 
 ---
 
-<tr>
-<td width="50%">
-
-**📱 Nexio Mobile — App Android**
-
-Aplicación móvil nativa para Android, desarrollada en Kotlin. Interfaz moderna y fluida orientada a usuarios finales.
-
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/Ver_código-171515?style=flat&logo=github)](https://github.com/Luisbravo-TI)
-
-</td>
-<td width="50%"></td>
-</tr>
-</table>
-
 ---
 
 ### 🎵 Fun Side Project
