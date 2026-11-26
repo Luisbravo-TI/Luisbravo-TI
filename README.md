@@ -80,16 +80,16 @@ const luis = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luisbravo-TI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisbravo-TI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Luisbravo-TI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisbravo-TI&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&hide=kotlin"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Luisbravo-TI&theme=tokyonight&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Luisbravo-TI&theme=tokyonight&hide_border=true&background=0d1117&card_width=500)](https://git.io/streak-stats)
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Luisbravo-TI&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Luisbravo-TI&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -238,6 +238,25 @@ API RESTful con FastAPI, endpoints CRUD, documentación Swagger automática y au
 [![Repo](https://img.shields.io/badge/Ver_código-171515?style=flat&logo=github)](https://github.com/Luisbravo-TI)
 
 </td>
+</tr>
+</table>
+
+---
+
+<tr>
+<td width="50%">
+
+**📱 Nexio Mobile — App Android**
+
+Aplicación móvil nativa para Android, desarrollada en Kotlin. Interfaz moderna y fluida orientada a usuarios finales.
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/Ver_código-171515?style=flat&logo=github)](https://github.com/Luisbravo-TI)
+
+</td>
+<td width="50%"></td>
 </tr>
 </table>
 
